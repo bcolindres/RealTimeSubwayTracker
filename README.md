@@ -1,3 +1,5 @@
+<img src="location.jpg" alt="This is an image of a locaiton icon" width="300" height="200">
+
 # Real Time Subway Tracker
 The "Real Time Subway Tracker" exercise incorporates HTML, CSS, JavaScript, and APIs to display real-time locations of Boston's subway system using the MBTA API.
 
